@@ -5,6 +5,11 @@
 - DOB: **14-01-2002**
 - Address: **Guntur**
 ### Education details
+- Master's
+  - **University of Alabama at Birmingham**
+  - **Master's in Computer Science**
+  - **2023-2025**
+  - **Birmingham,Alabama,USA**
 - B.tech
   - **RVR&JC College of Engineering**
   - **CSE**
